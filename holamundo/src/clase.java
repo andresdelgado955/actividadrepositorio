@@ -10,5 +10,6 @@
  */
 public class clase {
     int a;
+    int b;
     
 }
