@@ -11,5 +11,10 @@
 public class clase {
     int a;
     int b;
-    
+    int cambioderepositoriousuario1;
 }
+
+
+
+
+
